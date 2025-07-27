@@ -12,4 +12,4 @@
 
 | # | Title | Solution |
 |--|-------|----------|
-| 1193 | [Monthly Transactions I](https://github.com/Sawarnshivam/leetcode-database-solutions/blob/main/Medium/1193.%20Monthly%20Transactions%20I.sql/) | [SQL](Medium/1193-Monthly-Transactions-I.sql) |
+| 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | [SQL](Medium/1193. Monthly Transactions I.sql) |
